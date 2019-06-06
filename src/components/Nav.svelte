@@ -1,14 +1,20 @@
 <script>
 	export let segment;
 
-	const message = 'coucou';
+
 </script>
 
-<style>
-	.maNav {
+<style lang="scss">
+	.nav {
 		border-bottom: 1px solid rgba(255,62,0,0.1);
 		font-weight: 300;
 		padding: 0 1em;
+
+		.test
+		{
+			display: none;
+			color: white;
+		}
 	}
 
 	ul {
@@ -16,7 +22,7 @@
 		padding: 0;
 	}
 
-	/* clearfix */
+	/* clearfix */ 
 	ul::after {
 		content: '';
 		display: block;
@@ -50,7 +56,7 @@
 	}
 </style>
 
-<nav class="maNav">
+<nav class="nav">
 	<ul>
 		<li><a class='{segment === undefined ? "selected" : ""}' href='.'>home</a></li>
 		<li><a class='{segment === "about" ? "selected" : ""}' href='about'>about</a></li>
@@ -59,4 +65,6 @@
 		     the blog data when we hover over the link or tap it on a touchscreen -->
 		<li><a rel=prefetch class='{segment === "blog" ? "selected" : ""}' href='blog'>blog</a></li>
 	</ul>
+	<div class="test">coucou c'est mon test !</div>
+	<madirective></madirective>
 </nav>
