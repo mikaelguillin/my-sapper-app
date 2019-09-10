@@ -64,7 +64,7 @@
 		<!-- for the blog link, we're using rel=prefetch so that Sapper prefetches
 		     the blog data when we hover over the link or tap it on a touchscreen -->
 		<li><a rel=prefetch class='{segment === "blog" ? "selected" : ""}' href='blog'>blog</a></li>
+		<li><a rel=prefetch href='quotes'>quote page</a></li>
 	</ul>
 	<div class="test">coucou c'est mon test !</div>
-	<madirective></madirective>
 </nav>

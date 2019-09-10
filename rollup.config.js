@@ -7,6 +7,7 @@ import autoPreprocess from 'svelte-preprocess';
 import { terser } from 'rollup-plugin-terser';
 import config from 'sapper/config/rollup.js';
 import pkg from './package.json';
+import json from 'rollup-plugin-json';
 
 const mode = process.env.NODE_ENV;
 const dev = mode === 'development';
@@ -71,7 +72,12 @@ export default {
 				preprocess: autoPreprocess()
 			}),
 			resolve(),
-			commonjs()
+			commonjs(),
+			json({
+				exclude : 'node_modules',
+				compact: true,
+				indent: ''
+			})
 		],
 		external: Object.keys(pkg.dependencies).concat(
 			require('module').builtinModules || Object.keys(process.binding('natives'))
