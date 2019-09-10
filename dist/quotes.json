@@ -1,0 +1,1105 @@
+[{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/Lolivier.png","PartnerDisplayName":"L'olivier
+- assurance auto","ProductGuarantees":[{"DisplayName":"Protection du
+conducteur","Name":"C3","DisplayValue":"100 000&nbsp;€","ShortenDisplayValue":"100 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":100000,"Max":-1,"Pct":-1,"Value":"100000
+€<br />En option jusqu'à 500 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 500 000 €","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"50&nbsp;km","ShortenDisplayValue":"50&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":50,"Max":-1,"Pct":-1,"Value":"50
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de glace","Name":"B1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":3,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"100 000&nbsp;€","ShortenDisplayValue":"100 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":100000,"Max":-1,"Pct":-1,"Value":"100000
+€<br />En option jusqu'à 500 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 500 000 €","CustomDisplayValue":null},{"DisplayName":"VÉHICULE DE
+REMPLACEMENT","Name":"E1","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"30
+jours si dans un garage partenaire
+agréé","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol / incendie","Name":"B4","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null}],"YearlyPrice":218.04},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/Lolivier.png","PartnerDisplayName":"L'olivier
+- assurance auto","ProductGuarantees":[{"DisplayName":"Protection du
+conducteur","Name":"C3","DisplayValue":"100 000&nbsp;€","ShortenDisplayValue":"100 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":100000,"Max":-1,"Pct":-1,"Value":"100000
+€<br />En option jusqu'à 500 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 500 000 €","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"50&nbsp;km","ShortenDisplayValue":"50&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":50,"Max":-1,"Pct":-1,"Value":"50
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol /
+incendie","Name":"B4","DisplayValue":"520&nbsp;€","ShortenDisplayValue":"520&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":520,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de
+glace","Name":"B1","DisplayValue":"75&nbsp;€","ShortenDisplayValue":"75&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":75,"Max":-1,"Pct":-1,"Value":"[mini]
+€<br />En cas
+d'accident","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+cas d'accident","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"100 000&nbsp;€","ShortenDisplayValue":"100 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":100000,"Max":-1,"Pct":-1,"Value":"100000
+€<br />En option jusqu'à 500 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 500 000 €","CustomDisplayValue":null},{"DisplayName":"VÉHICULE DE
+REMPLACEMENT","Name":"E1","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"30
+jours si dans un garage partenaire
+agréé","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null}],"YearlyPrice":260.59},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/LolivierVip.png","PartnerDisplayName":"L'olivier
+- assurance auto","ProductGuarantees":[{"DisplayName":"Protection du
+conducteur","Name":"C3","DisplayValue":"100 000&nbsp;€","ShortenDisplayValue":"100 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":100000,"Max":-1,"Pct":-1,"Value":"100000
+€<br />En option jusqu'à 1 000
+000€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 1 000 000€","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de glace","Name":"B1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":3,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol / incendie","Name":"B4","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"100 000&nbsp;€","ShortenDisplayValue":"100 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":100000,"Max":-1,"Pct":-1,"Value":"100000
+€<br />En option jusqu'à 1 000
+000€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 1 000 000€","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE
+REMPLACEMENT","Name":"E1","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"5
+jours en cas de panne + 7 jours en cas d'accident (tous cas) / 30 jours si dans
+un garage partenaire
+agréé","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null}],"YearlyPrice":278.04},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/DirectAssurance.png","PartnerDisplayName":"Direct
+Assurance","ProductGuarantees":[{"DisplayName":"Protection du
+conducteur","Name":"C3","DisplayValue":"400 000&nbsp;€","ShortenDisplayValue":"400 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":400000,"Max":-1,"Pct":-1,"Value":"400000
+€<br />En option jusqu'à 1 500 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 1 500 000
+€","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"50&nbsp;km","ShortenDisplayValue":"50&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":50,"Max":-1,"Pct":-1,"Value":"50
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol / incendie","Name":"B4","DisplayValue":"286&nbsp;€ + 10&nbsp;% du montant
+des réparations, avec un plafond maximum de
+726&nbsp;€","ShortenDisplayValue":"de 286&nbsp;€ à
+726&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":286,"Max":726,"Pct":10,"Value":"[mini]
+€ + 10 % du montant des réparations, avec un plafond maximum de [maxi]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"4","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de glace","Name":"B1","DisplayValue":" 25
+%","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"<br />
+25
+%","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"
+25 %","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"400 000&nbsp;€","ShortenDisplayValue":"400 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":400000,"Max":-1,"Pct":-1,"Value":"400000
+€<br />En option jusqu'à 1 500 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 1 500 000 €","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"En
+option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"","CustomDisplayValue":null}],"YearlyPrice":293.28},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/Areas.png","PartnerDisplayName":"Aréas
+Assurances","ProductGuarantees":[{"DisplayName":"Protection du
+conducteur","Name":"C3","DisplayValue":"400 000&nbsp;€","ShortenDisplayValue":"400 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":400000,"Max":-1,"Pct":-1,"Value":"400000
+€<br />En option jusqu’à 1 500 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu’à 1 500 000
+€","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":2,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />25
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"12","Comment":"25
+km","CustomDisplayValue":null},{"DisplayName":"Franchise bris de
+glace","Name":"B1","DisplayValue":"Non garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":3,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"En
+option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"0
+km","CustomDisplayValue":null},{"DisplayName":"Franchise vol /
+incendie","Name":"B4","DisplayValue":"Non garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"400 000&nbsp;€","ShortenDisplayValue":"400 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":400000,"Max":-1,"Pct":-1,"Value":"400000
+€<br />En option jusqu’à 1 500 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu’à 1 500 000 €","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null}],"YearlyPrice":334.54},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/Lolivier.png","PartnerDisplayName":"L'olivier
+- assurance auto","ProductGuarantees":[{"DisplayName":"Protection du
+conducteur","Name":"C3","DisplayValue":"100 000&nbsp;€","ShortenDisplayValue":"100 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":100000,"Max":-1,"Pct":-1,"Value":"100000
+€<br />En option jusqu'à 500 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 500 000 €","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"50&nbsp;km","ShortenDisplayValue":"50&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":50,"Max":-1,"Pct":-1,"Value":"50
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous
+accidents","Name":"B8","DisplayValue":"520&nbsp;€","ShortenDisplayValue":"520&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":520,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de
+glace","Name":"B1","DisplayValue":"75&nbsp;€","ShortenDisplayValue":"75&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":75,"Max":-1,"Pct":-1,"Value":"[mini]
+€<br />En cas
+d'accident","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+cas d'accident","CustomDisplayValue":null},{"DisplayName":"Franchise vol /
+incendie","Name":"B4","DisplayValue":"520&nbsp;€","ShortenDisplayValue":"520&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":520,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"100 000&nbsp;€","ShortenDisplayValue":"100 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":100000,"Max":-1,"Pct":-1,"Value":"100000
+€<br />En option jusqu'à 500 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 500 000 €","CustomDisplayValue":null},{"DisplayName":"VÉHICULE DE
+REMPLACEMENT","Name":"E1","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"30
+jours si dans un garage partenaire
+agréé","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null}],"YearlyPrice":334.95},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/DirectAssurancePack.png","PartnerDisplayName":"Direct
+Assurance","ProductGuarantees":[{"DisplayName":"Protection du
+conducteur","Name":"C3","DisplayValue":"1 500 000&nbsp;€","ShortenDisplayValue":"1 500 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":1500000,"Max":-1,"Pct":-1,"Value":"1500000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"50&nbsp;km","ShortenDisplayValue":"50&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":50,"Max":-1,"Pct":-1,"Value":"50
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol / incendie","Name":"B4","DisplayValue":"286&nbsp;€ + 10&nbsp;% du montant
+des réparations, avec un plafond maximum de
+726&nbsp;€","ShortenDisplayValue":"de 286&nbsp;€ à
+726&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":286,"Max":726,"Pct":10,"Value":"[mini]
+€ + 10 % du montant des réparations, avec un plafond maximum de [maxi]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"4","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"1 500 000&nbsp;€","ShortenDisplayValue":"1 500 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":1500000,"Max":-1,"Pct":-1,"Value":"1500000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE
+REMPLACEMENT","Name":"E1","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de glace","Name":"B1","DisplayValue":" 25
+%","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"<br />
+25
+%","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"
+25
+%","CustomDisplayValue":null}],"YearlyPrice":339.69},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/Bonus50.png","PartnerDisplayName":"Bonus50","ProductGuarantees":[{"DisplayName":"Protection
+du conducteur","Name":"C3","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":1,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />200 000€ avec 20% de franchise en AIPP ou 1 000 000€ avec 5% de
+franchise en
+APIPP","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"12","Comment":"200
+000€ avec 20% de franchise en AIPP ou 1 000 000€ avec 5% de franchise en
+APIPP","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":2,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />(22,20 €
+TTC/an)","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"12","Comment":"(22,20
+€ TTC/an)","CustomDisplayValue":null},{"DisplayName":"Franchise bris de
+glace","Name":"B1","DisplayValue":"Non garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":3,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol / incendie","Name":"B4","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"En
+option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />(22,20 €
+TTC/an)","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"(22,20
+€ TTC/an)","CustomDisplayValue":null},{"DisplayName":"VÉHICULE DE
+REMPLACEMENT","Name":"E1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du conducteur","Name":"C2","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />200 000€ avec 20% de franchise en AIPP ou 1 000 000€ avec 5% de
+franchise en
+APIPP","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"200
+000€ avec 20% de franchise en AIPP ou 1 000 000€ avec 5% de franchise en
+APIPP","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null}],"YearlyPrice":339.87},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/ActiveAssurance.png","PartnerDisplayName":"Active
+Assurances","ProductGuarantees":[{"DisplayName":"Protection du
+conducteur","Name":"C3","DisplayValue":"450 000&nbsp;€","ShortenDisplayValue":"450 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":450000,"Max":-1,"Pct":-1,"Value":"450000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":2,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"12","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de glace","Name":"B1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":3,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol / incendie","Name":"B4","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"En
+option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"450 000&nbsp;€","ShortenDisplayValue":"450 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":450000,"Max":-1,"Pct":-1,"Value":"450000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null}],"YearlyPrice":341.4},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/DirectAssurance.png","PartnerDisplayName":"Direct
+Assurance","ProductGuarantees":[{"DisplayName":"Protection du
+conducteur","Name":"C3","DisplayValue":"400 000&nbsp;€","ShortenDisplayValue":"400 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":400000,"Max":-1,"Pct":-1,"Value":"400000
+€<br />En option jusqu'à 1 500 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 1 500 000
+€","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"50&nbsp;km","ShortenDisplayValue":"50&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":50,"Max":-1,"Pct":-1,"Value":"50
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"286&nbsp;€ + 10&nbsp;% du montant
+des réparations, avec un plafond maximum de
+726&nbsp;€","ShortenDisplayValue":"de 286&nbsp;€ à
+726&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":286,"Max":726,"Pct":10,"Value":"[mini]
+€ + 10 % du montant des réparations, avec un plafond maximum de [maxi]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"4","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol / incendie","Name":"B4","DisplayValue":"286&nbsp;€ + 10&nbsp;% du montant
+des réparations, avec un plafond maximum de
+726&nbsp;€","ShortenDisplayValue":"de 286&nbsp;€ à
+726&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":286,"Max":726,"Pct":10,"Value":"[mini]
+€ + 10 % du montant des réparations, avec un plafond maximum de [maxi]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"4","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"400 000&nbsp;€","ShortenDisplayValue":"400 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":400000,"Max":-1,"Pct":-1,"Value":"400000
+€<br />En option jusqu'à 1 500 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 1 500 000 €","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"En
+option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de glace","Name":"B1","DisplayValue":" 25
+%","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"<br />
+25
+%","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"
+25 %","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null}],"YearlyPrice":360.4},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/LolivierVip2.png","PartnerDisplayName":"L'olivier
+- assurance auto","ProductGuarantees":[{"DisplayName":"Protection du
+conducteur","Name":"C3","DisplayValue":"1 000 000&nbsp;€","ShortenDisplayValue":"1 000 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":1000000,"Max":-1,"Pct":-1,"Value":"1000000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol /
+incendie","Name":"B4","DisplayValue":"520&nbsp;€","ShortenDisplayValue":"520&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":520,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de
+glace","Name":"B1","DisplayValue":"75&nbsp;€","ShortenDisplayValue":"75&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":75,"Max":-1,"Pct":-1,"Value":"[mini]
+€<br />En cas
+d'accident","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+cas
+d'accident","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"1 000 000&nbsp;€","ShortenDisplayValue":"1 000 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":1000000,"Max":-1,"Pct":-1,"Value":"1000000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti<br />5 jours en cas de panne + 7 jours en cas d'accident (tous cas) / 30
+jours si dans un garage partenaire
+agréé","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"5
+jours en cas de panne + 7 jours en cas d'accident (tous cas) / 30 jours si dans
+un garage partenaire agréé","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null}],"YearlyPrice":368.59},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/AllianzCE.png","PartnerDisplayName":"Allianz","ProductGuarantees":[{"DisplayName":"Protection
+du
+conducteur","Name":"C3","DisplayValue":"500 000&nbsp;€","ShortenDisplayValue":"500 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":500000,"Max":-1,"Pct":-1,"Value":"250000
+€<br />En option jusqu'à 1 000 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 1 000 000
+€","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":2,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />50
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"12","Comment":"50
+km","CustomDisplayValue":null},{"DisplayName":"Franchise bris de
+glace","Name":"B1","DisplayValue":"Non garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":3,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"500 000&nbsp;€","ShortenDisplayValue":"500 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":500000,"Max":-1,"Pct":-1,"Value":"250000
+€<br />En option jusqu'à 1 000 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 1 000 000 €","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol / incendie","Name":"B4","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"En
+option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />50
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"50
+km","CustomDisplayValue":null},{"DisplayName":"VÉHICULE DE
+REMPLACEMENT","Name":"E1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null}],"YearlyPrice":385.44},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/DirectAssurancePack.png","PartnerDisplayName":"Direct
+Assurance","ProductGuarantees":[{"DisplayName":"Protection du
+conducteur","Name":"C3","DisplayValue":"1 500 000&nbsp;€","ShortenDisplayValue":"1 500 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":1500000,"Max":-1,"Pct":-1,"Value":"1500000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"50&nbsp;km","ShortenDisplayValue":"50&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":50,"Max":-1,"Pct":-1,"Value":"50
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"286&nbsp;€ + 10&nbsp;% du montant
+des réparations, avec un plafond maximum de
+726&nbsp;€","ShortenDisplayValue":"de 286&nbsp;€ à
+726&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":286,"Max":726,"Pct":10,"Value":"[mini]
+€ + 10 % du montant des réparations, avec un plafond maximum de [maxi]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"4","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol / incendie","Name":"B4","DisplayValue":"286&nbsp;€ + 10&nbsp;% du montant
+des réparations, avec un plafond maximum de
+726&nbsp;€","ShortenDisplayValue":"de 286&nbsp;€ à
+726&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":286,"Max":726,"Pct":10,"Value":"[mini]
+€ + 10 % du montant des réparations, avec un plafond maximum de [maxi]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"4","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"1 500 000&nbsp;€","ShortenDisplayValue":"1 500 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":1500000,"Max":-1,"Pct":-1,"Value":"1500000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE
+REMPLACEMENT","Name":"E1","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de glace","Name":"B1","DisplayValue":" 25
+%","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"<br />
+25
+%","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"
+25 %","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null}],"YearlyPrice":406.81},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/Allianz.png","PartnerDisplayName":"Allianz","ProductGuarantees":[{"DisplayName":"Protection
+du
+conducteur","Name":"C3","DisplayValue":"500 000&nbsp;€","ShortenDisplayValue":"500 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":500000,"Max":-1,"Pct":-1,"Value":"[mini]
+€<br />En option jusqu'à 1 000 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 1 000 000
+€","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"50&nbsp;km","ShortenDisplayValue":"50&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":50,"Max":-1,"Pct":-1,"Value":"50
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de glace","Name":"B1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":3,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"500 000&nbsp;€","ShortenDisplayValue":"500 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":500000,"Max":-1,"Pct":-1,"Value":"[mini]
+€<br />En option jusqu'à 1 000 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 1 000 000 €","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol / incendie","Name":"B4","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null}],"YearlyPrice":407.28},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/Areas.png","PartnerDisplayName":"Aréas
+Assurances","ProductGuarantees":[{"DisplayName":"Protection du
+conducteur","Name":"C3","DisplayValue":"400 000&nbsp;€","ShortenDisplayValue":"400 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":400000,"Max":-1,"Pct":-1,"Value":"400000
+€<br />En option jusqu’à 1 500 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu’à 1 500 000
+€","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":2,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />25
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"12","Comment":"25
+km","CustomDisplayValue":null},{"DisplayName":"Franchise vol /
+incendie","Name":"B4","DisplayValue":"300&nbsp;€","ShortenDisplayValue":"300&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":300,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de
+glace","Name":"B1","DisplayValue":"55&nbsp;€","ShortenDisplayValue":"55&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":55,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"400 000&nbsp;€","ShortenDisplayValue":"400 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":400000,"Max":-1,"Pct":-1,"Value":"400000
+€<br />En option jusqu’à 1 500 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu’à 1 500 000 €","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"En
+option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"0
+km","CustomDisplayValue":null}],"YearlyPrice":422.32},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/MaXance.png","PartnerDisplayName":"MaXance","ProductGuarantees":[{"DisplayName":"Protection
+du conducteur","Name":"C3","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":1,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />152 400
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"12","Comment":"152
+400 €","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de glace","Name":"B1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":3,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol / incendie","Name":"B4","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du conducteur","Name":"C2","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />152 400
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"152
+400 €","CustomDisplayValue":null},{"DisplayName":"Franchise tous
+accidents","Name":"B8","DisplayValue":"Non garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null}],"YearlyPrice":429.65},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/ASSURPEOPLE.png","PartnerDisplayName":"Assurpeople.com","ProductGuarantees":[{"DisplayName":"Protection
+du
+conducteur","Name":"C3","DisplayValue":"300 000&nbsp;€","ShortenDisplayValue":"300 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":300000,"Max":-1,"Pct":-1,"Value":"300000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":0,"Max":-1,"Pct":-1,"Value":"[mini]
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de glace","Name":"B1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":3,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol / incendie","Name":"B4","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"300 000&nbsp;€","ShortenDisplayValue":"300 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":300000,"Max":-1,"Pct":-1,"Value":"300000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE
+REMPLACEMENT","Name":"E1","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null}],"YearlyPrice":435},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/AllianzPremiumQP.png","PartnerDisplayName":"Allianz","ProductGuarantees":[{"DisplayName":"Protection
+du
+conducteur","Name":"C3","DisplayValue":"500 000&nbsp;€","ShortenDisplayValue":"500 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":500000,"Max":-1,"Pct":-1,"Value":"[mini]
+€<br />En option jusqu'à 1 000 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 1 000 000
+€","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"50&nbsp;km","ShortenDisplayValue":"50&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":50,"Max":-1,"Pct":-1,"Value":"50
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de glace","Name":"B1","DisplayValue":"de 24&nbsp;€ à
+79&nbsp;€","ShortenDisplayValue":"de 24&nbsp;€ à
+79&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":24,"Max":79,"Pct":-1,"Value":"De
+[mini] € à [maxi]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"7","Comment":"79
+Euros (remplacement) - 24 Euros
+(réparation)","CustomDisplayValue":null},{"DisplayName":"Protection du
+conducteur","Name":"C2","DisplayValue":"500 000&nbsp;€","ShortenDisplayValue":"500 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":500000,"Max":-1,"Pct":-1,"Value":"[mini]
+€<br />En option jusqu'à 1 000 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 1 000 000 €","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol / incendie","Name":"B4","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null}],"YearlyPrice":458.06},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/Bonus50.png","PartnerDisplayName":"Bonus50","ProductGuarantees":[{"DisplayName":"Protection
+du conducteur","Name":"C3","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":1,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />200 000€ avec 20% de franchise en AIPP ou 1 000 000€ avec 5% de
+franchise en
+APIPP","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"12","Comment":"200
+000€ avec 20% de franchise en AIPP ou 1 000 000€ avec 5% de franchise en
+APIPP","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":2,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />(22.20€
+TTC/an)","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"12","Comment":"(22.20€
+TTC/an)","CustomDisplayValue":null},{"DisplayName":"Franchise vol /
+incendie","Name":"B4","DisplayValue":"360&nbsp;€","ShortenDisplayValue":"360&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":360,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de
+glace","Name":"B1","DisplayValue":"110&nbsp;€","ShortenDisplayValue":"110&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":110,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du conducteur","Name":"C2","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />200 000€ avec 20% de franchise en AIPP ou 1 000 000€ avec 5% de
+franchise en
+APIPP","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"200
+000€ avec 20% de franchise en AIPP ou 1 000 000€ avec 5% de franchise en
+APIPP","CustomDisplayValue":null},{"DisplayName":"VÉHICULE DE
+REMPLACEMENT","Name":"E1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"En
+option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />(22.20€
+TTC/an)","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"(22.20€
+TTC/an)","CustomDisplayValue":null}],"YearlyPrice":458.1},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/ASSURPEOPLE.png","PartnerDisplayName":"Assurpeople.com","ProductGuarantees":[{"DisplayName":"Protection
+du
+conducteur","Name":"C3","DisplayValue":"300 000&nbsp;€","ShortenDisplayValue":"300 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":300000,"Max":-1,"Pct":-1,"Value":"300000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":0,"Max":-1,"Pct":-1,"Value":"[mini]
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol /
+incendie","Name":"B4","DisplayValue":"460&nbsp;€","ShortenDisplayValue":"460&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":460,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de
+glace","Name":"B1","DisplayValue":"70&nbsp;€","ShortenDisplayValue":"70&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":70,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"en cas d'accident ou de vol dans
+certains
+cas","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"en
+cas d'accident ou de vol dans certains
+cas","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"300 000&nbsp;€","ShortenDisplayValue":"300 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":300000,"Max":-1,"Pct":-1,"Value":"300000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null}],"YearlyPrice":471},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/LolivierVip3.png","PartnerDisplayName":"L'olivier
+- assurance auto","ProductGuarantees":[{"DisplayName":"Protection du
+conducteur","Name":"C3","DisplayValue":"1 000 000&nbsp;€","ShortenDisplayValue":"1 000 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":1000000,"Max":-1,"Pct":-1,"Value":"1000000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous
+accidents","Name":"B8","DisplayValue":"520&nbsp;€","ShortenDisplayValue":"520&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":520,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de
+glace","Name":"B1","DisplayValue":"75&nbsp;€","ShortenDisplayValue":"75&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":75,"Max":-1,"Pct":-1,"Value":"[mini]
+€<br />En cas
+d'accident","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+cas d'accident","CustomDisplayValue":null},{"DisplayName":"Franchise vol /
+incendie","Name":"B4","DisplayValue":"520&nbsp;€","ShortenDisplayValue":"520&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":520,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE
+REMPLACEMENT","Name":"E1","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"5
+jours en cas de panne + 7 jours en cas d'accident (tous cas) / 30 jours si dans
+un garage partenaire
+agréé","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"1 000 000&nbsp;€","ShortenDisplayValue":"1 000 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":1000000,"Max":-1,"Pct":-1,"Value":"1000000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null}],"YearlyPrice":478.95},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/ActiveAssurance.png","PartnerDisplayName":"Active
+Assurances","ProductGuarantees":[{"DisplayName":"Protection du
+conducteur","Name":"C3","DisplayValue":"450 000&nbsp;€","ShortenDisplayValue":"450 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":450000,"Max":-1,"Pct":-1,"Value":"450000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":2,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"12","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol /
+incendie","Name":"B4","DisplayValue":"350&nbsp;€","ShortenDisplayValue":"350&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":350,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de
+glace","Name":"B1","DisplayValue":"70&nbsp;€","ShortenDisplayValue":"70&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":70,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"En
+option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"450 000&nbsp;€","ShortenDisplayValue":"450 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":450000,"Max":-1,"Pct":-1,"Value":"450000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null}],"YearlyPrice":486.8},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/AssurOnLine.png","PartnerDisplayName":"AssurOnline","ProductGuarantees":[{"DisplayName":"Protection
+du
+conducteur","Name":"C3","DisplayValue":"250 000&nbsp;€","ShortenDisplayValue":"250 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":250000,"Max":-1,"Pct":-1,"Value":"250000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de glace","Name":"B1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":3,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol / incendie","Name":"B4","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"250 000&nbsp;€","ShortenDisplayValue":"250 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":250000,"Max":-1,"Pct":-1,"Value":"250000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null}],"YearlyPrice":504.95},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/AssurOnlineF2.png","PartnerDisplayName":"AssurOnline","ProductGuarantees":[{"DisplayName":"Protection
+du
+conducteur","Name":"C3","DisplayValue":"150 000&nbsp;€","ShortenDisplayValue":"150 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":150000,"Max":-1,"Pct":-1,"Value":"150000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de
+glace","Name":"B1","DisplayValue":"70&nbsp;€","ShortenDisplayValue":"70&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":70,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol / incendie","Name":"B4","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"150 000&nbsp;€","ShortenDisplayValue":"150 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":150000,"Max":-1,"Pct":-1,"Value":"150000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null}],"YearlyPrice":540.58},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/Areas.png","PartnerDisplayName":"Aréas
+Assurances","ProductGuarantees":[{"DisplayName":"Protection du
+conducteur","Name":"C3","DisplayValue":"400 000&nbsp;€","ShortenDisplayValue":"400 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":400000,"Max":-1,"Pct":-1,"Value":"400000
+€<br />En option jusqu’à 1 500 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu’à 1 500 000
+€","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":2,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />25
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"12","Comment":"25
+km","CustomDisplayValue":null},{"DisplayName":"Franchise tous
+accidents","Name":"B8","DisplayValue":"300&nbsp;€","ShortenDisplayValue":"300&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":300,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de
+glace","Name":"B1","DisplayValue":"55&nbsp;€","ShortenDisplayValue":"55&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":55,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol /
+incendie","Name":"B4","DisplayValue":"300&nbsp;€","ShortenDisplayValue":"300&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":300,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"En
+option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"0
+km","CustomDisplayValue":null},{"DisplayName":"Protection du
+conducteur","Name":"C2","DisplayValue":"400 000&nbsp;€","ShortenDisplayValue":"400 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":400000,"Max":-1,"Pct":-1,"Value":"400000
+€<br />En option jusqu’à 1 500 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu’à 1 500 000 €","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti<br />Maximum de 15 jours en cas d’accident, 30 jours en cas de vol, 7
+jours en cas de
+panne","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"Maximum
+de 15 jours en cas d’accident, 30 jours en cas de vol, 7 jours en cas de
+panne","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null}],"YearlyPrice":550.74},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/Allianz.png","PartnerDisplayName":"Allianz","ProductGuarantees":[{"DisplayName":"Protection
+du
+conducteur","Name":"C3","DisplayValue":"500 000&nbsp;€","ShortenDisplayValue":"500 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":500000,"Max":-1,"Pct":-1,"Value":"[mini]
+€<br />En option jusqu'à 1 000 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 1 000 000
+€","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"50&nbsp;km","ShortenDisplayValue":"50&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":50,"Max":-1,"Pct":-1,"Value":"50
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol /
+incendie","Name":"B4","DisplayValue":"449&nbsp;€","ShortenDisplayValue":"449&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":449,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de glace","Name":"B1","DisplayValue":"de 24&nbsp;€ à
+79&nbsp;€","ShortenDisplayValue":"de 24&nbsp;€ à
+79&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":24,"Max":79,"Pct":-1,"Value":"De
+[mini] € à [maxi]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"7","Comment":"79
+Euros (remplacement) - 24 Euros
+(réparation)","CustomDisplayValue":null},{"DisplayName":"Protection du
+conducteur","Name":"C2","DisplayValue":"500 000&nbsp;€","ShortenDisplayValue":"500 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":500000,"Max":-1,"Pct":-1,"Value":"[mini]
+€<br />En option jusqu'à 1 000 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 1 000 000 €","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"En
+option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />Remplacement
+Plus","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"Remplacement
+Plus","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null}],"YearlyPrice":580.1},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/AllianzPremiumC2.png","PartnerDisplayName":"Allianz","ProductGuarantees":[{"DisplayName":"Protection
+du
+conducteur","Name":"C3","DisplayValue":"1 000 000&nbsp;€","ShortenDisplayValue":"1 000 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":1000000,"Max":-1,"Pct":-1,"Value":"1000000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"50&nbsp;km","ShortenDisplayValue":"50&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":50,"Max":-1,"Pct":-1,"Value":"50
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol /
+incendie","Name":"B4","DisplayValue":"449&nbsp;€","ShortenDisplayValue":"449&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":449,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de glace","Name":"B1","DisplayValue":"de 24&nbsp;€ à
+79&nbsp;€","ShortenDisplayValue":"de 24&nbsp;€ à
+79&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":24,"Max":79,"Pct":-1,"Value":"De
+[mini] € à [maxi]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"7","Comment":"79
+Euros (remplacement) - 24 Euros
+(réparation)","CustomDisplayValue":null},{"DisplayName":"Franchise tous
+accidents","Name":"B8","DisplayValue":"Non garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"1 000 000&nbsp;€","ShortenDisplayValue":"1 000 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":1000000,"Max":-1,"Pct":-1,"Value":"1000000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"En
+option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />Remplacement
+Plus","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"Remplacement
+Plus","CustomDisplayValue":null}],"YearlyPrice":602.9},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/MaXance.png","PartnerDisplayName":"MaXance","ProductGuarantees":[{"DisplayName":"Protection
+du conducteur","Name":"C3","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":1,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />152 450
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"12","Comment":"152
+450 €","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol /
+incendie","Name":"B4","DisplayValue":"350&nbsp;€","ShortenDisplayValue":"350&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":350,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du conducteur","Name":"C2","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />152 450
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"152
+450 €","CustomDisplayValue":null},{"DisplayName":"VÉHICULE DE
+REMPLACEMENT","Name":"E1","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />5 jours en cas de panne, 8 jours en cas d'accident, vol ou incendie
+et 30 jours en cas de vol total ou de véhicule
+épave","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"5
+jours en cas de panne, 8 jours en cas d'accident, vol ou incendie et 30 jours en
+cas de vol total ou de véhicule
+épave","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de glace","Name":"B1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null}],"YearlyPrice":617.6},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/AssurOnLine.png","PartnerDisplayName":"AssurOnline","ProductGuarantees":[{"DisplayName":"Protection
+du
+conducteur","Name":"C3","DisplayValue":"250 000&nbsp;€","ShortenDisplayValue":"250 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":250000,"Max":-1,"Pct":-1,"Value":"250000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol /
+incendie","Name":"B4","DisplayValue":"350&nbsp;€","ShortenDisplayValue":"350&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":350,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de
+glace","Name":"B1","DisplayValue":"70&nbsp;€","ShortenDisplayValue":"70&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":70,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"250 000&nbsp;€","ShortenDisplayValue":"250 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":250000,"Max":-1,"Pct":-1,"Value":"250000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous accidents","Name":"B8","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null}],"YearlyPrice":632.59},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/ActiveAssurance.png","PartnerDisplayName":"Active
+Assurances","ProductGuarantees":[{"DisplayName":"Protection du
+conducteur","Name":"C3","DisplayValue":"450 000&nbsp;€","ShortenDisplayValue":"450 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":450000,"Max":-1,"Pct":-1,"Value":"450000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous
+accidents","Name":"B8","DisplayValue":"350&nbsp;€","ShortenDisplayValue":"350&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":350,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de
+glace","Name":"B1","DisplayValue":"70&nbsp;€","ShortenDisplayValue":"70&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":70,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol /
+incendie","Name":"B4","DisplayValue":"350&nbsp;€","ShortenDisplayValue":"350&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":350,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"450 000&nbsp;€","ShortenDisplayValue":"450 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":450000,"Max":-1,"Pct":-1,"Value":"450000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null}],"YearlyPrice":689.1},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/Bonus50.png","PartnerDisplayName":"Bonus50","ProductGuarantees":[{"DisplayName":"Protection
+du conducteur","Name":"C3","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":1,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />200 000€ avec 20% de franchise en AIPP ou 1 000 000€ avec 5% de
+franchise en
+APIPP","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"12","Comment":"200
+000€ avec 20% de franchise en AIPP ou 1 000 000€ avec 5% de franchise en
+APIPP","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":2,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />(22.20€
+TTC/an)","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"12","Comment":"(22.20€
+TTC/an)","CustomDisplayValue":null},{"DisplayName":"Franchise tous
+accidents","Name":"B8","DisplayValue":"360&nbsp;€","ShortenDisplayValue":"360&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":360,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de
+glace","Name":"B1","DisplayValue":"110&nbsp;€","ShortenDisplayValue":"110&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":110,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol /
+incendie","Name":"B4","DisplayValue":"360&nbsp;€","ShortenDisplayValue":"360&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":360,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"En
+option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />(22.20€
+TTC/an)","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"(22.20€
+TTC/an)","CustomDisplayValue":null},{"DisplayName":"Protection du
+conducteur","Name":"C2","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />200 000€ avec 20% de franchise en AIPP ou 1 000 000€ avec 5% de
+franchise en
+APIPP","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"200
+000€ avec 20% de franchise en AIPP ou 1 000 000€ avec 5% de franchise en
+APIPP","CustomDisplayValue":null},{"DisplayName":"VÉHICULE DE
+REMPLACEMENT","Name":"E1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null}],"YearlyPrice":750.95},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/AssurOnLine.png","PartnerDisplayName":"AssurOnline","ProductGuarantees":[{"DisplayName":"Protection
+du
+conducteur","Name":"C3","DisplayValue":"250 000&nbsp;€","ShortenDisplayValue":"250 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":250000,"Max":-1,"Pct":-1,"Value":"250000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous
+accidents","Name":"B8","DisplayValue":"350&nbsp;€","ShortenDisplayValue":"350&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":350,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de
+glace","Name":"B1","DisplayValue":"70&nbsp;€","ShortenDisplayValue":"70&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":70,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol /
+incendie","Name":"B4","DisplayValue":"350&nbsp;€","ShortenDisplayValue":"350&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":350,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"250 000&nbsp;€","ShortenDisplayValue":"250 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":250000,"Max":-1,"Pct":-1,"Value":"250000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"En
+option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />Véhicule de
+remplacement","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"Véhicule
+de remplacement","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null}],"YearlyPrice":811.3},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/Allianz.png","PartnerDisplayName":"Allianz","ProductGuarantees":[{"DisplayName":"Protection
+du
+conducteur","Name":"C3","DisplayValue":"500 000&nbsp;€","ShortenDisplayValue":"500 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":500000,"Max":-1,"Pct":-1,"Value":"[mini]
+€<br />En option jusqu'à 1 000 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 1 000 000
+€","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"50&nbsp;km","ShortenDisplayValue":"50&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":50,"Max":-1,"Pct":-1,"Value":"50
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous
+accidents","Name":"B8","DisplayValue":"449&nbsp;€","ShortenDisplayValue":"449&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":449,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de glace","Name":"B1","DisplayValue":"de 24&nbsp;€ à
+79&nbsp;€","ShortenDisplayValue":"de 24&nbsp;€ à
+79&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":24,"Max":79,"Pct":-1,"Value":"De
+[mini] € à [maxi]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"7","Comment":"79
+Euros (remplacement) - 24 Euros
+(réparation)","CustomDisplayValue":null},{"DisplayName":"Franchise vol /
+incendie","Name":"B4","DisplayValue":"449&nbsp;€","ShortenDisplayValue":"449&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":449,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"500 000&nbsp;€","ShortenDisplayValue":"500 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":500000,"Max":-1,"Pct":-1,"Value":"[mini]
+€<br />En option jusqu'à 1 000 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 1 000 000 €","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"En
+option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null}],"YearlyPrice":836.78},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/MaXance.png","PartnerDisplayName":"MaXance","ProductGuarantees":[{"DisplayName":"Protection
+du conducteur","Name":"C3","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":1,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />152 450
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"12","Comment":"152
+450 €","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous
+accidents","Name":"B8","DisplayValue":"350&nbsp;€","ShortenDisplayValue":"350&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":350,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+vol /
+incendie","Name":"B4","DisplayValue":"350&nbsp;€","ShortenDisplayValue":"350&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":350,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE REMPLACEMENT","Name":"E1","DisplayValue":"En
+option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />5 jours en cas de panne, 8 jours en cas d'accident, vol ou incendie
+et 30 jours en cas de vol total ou de véhicule
+épave","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"5
+jours en cas de panne, 8 jours en cas d'accident, vol ou incendie et 30 jours en
+cas de vol total ou de véhicule
+épave","CustomDisplayValue":null},{"DisplayName":"Protection du
+conducteur","Name":"C2","DisplayValue":"En option","ShortenDisplayValue":"En
+option","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"En
+option<br />152 450
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"12","Comment":"152
+450 €","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de glace","Name":"B1","DisplayValue":"Non
+garanti","ShortenDisplayValue":"Non
+garanti","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":false,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"Non
+garanti","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"13","Comment":"","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null}],"YearlyPrice":849.71},{"PartnerLogo":"https://media.testlelynx.fr/CarV2/images/insurerlogo/AllianzPremiumC3.png","PartnerDisplayName":"Allianz","ProductGuarantees":[{"DisplayName":"Protection
+du
+conducteur","Name":"C3","DisplayValue":"500 000&nbsp;€","ShortenDisplayValue":"500 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":1,"Min":500000,"Max":-1,"Pct":-1,"Value":"250000
+€<br />En option jusqu'à 1 000 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 1 000 000
+€","CustomDisplayValue":null},{"DisplayName":"Assistance
+panne","Name":"D2","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":2,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+tous
+accidents","Name":"B8","DisplayValue":"449&nbsp;€","ShortenDisplayValue":"449&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":3,"Min":449,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":true,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Franchise
+bris de glace","Name":"B1","DisplayValue":"de 24&nbsp;€ à
+79&nbsp;€","ShortenDisplayValue":"de 24&nbsp;€ à
+79&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":24,"Max":79,"Pct":-1,"Value":"De
+[mini] € à [maxi]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"7","Comment":"79
+Euros (remplacement) - 24 Euros
+(réparation)","CustomDisplayValue":null},{"DisplayName":"Franchise vol /
+incendie","Name":"B4","DisplayValue":"449&nbsp;€","ShortenDisplayValue":"449&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":449,"Max":-1,"Pct":-1,"Value":"[mini]
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"","CustomDisplayValue":null},{"DisplayName":"Protection
+du
+conducteur","Name":"C2","DisplayValue":"500 000&nbsp;€","ShortenDisplayValue":"500 000&nbsp;€","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":500000,"Max":-1,"Pct":-1,"Value":"250000
+€<br />En option jusqu'à 1 000 000
+€","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"2","Comment":"En
+option jusqu'à 1 000 000 €","CustomDisplayValue":null},{"DisplayName":"TARIF
+MENSUEL","Name":"F2","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"[Comment]","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"1","Comment":"","CustomDisplayValue":null},{"DisplayName":"ACCIDENT","Name":"D1","DisplayValue":"0&nbsp;km","ShortenDisplayValue":"0&nbsp;km","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":0,"Max":-1,"Pct":-1,"Value":"0
+km","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"5","Comment":"","CustomDisplayValue":null},{"DisplayName":"VÉHICULE
+DE
+REMPLACEMENT","Name":"E1","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null},{"DisplayName":"RÉSEAU
+D'AGENCE","Name":"F3","DisplayValue":"","ShortenDisplayValue":"","DisplayValue2":null,"ShortenDisplayValue2":null,"Flag":true,"Order":99,"Min":-1,"Max":-1,"Pct":-1,"Value":"","HelpText":null,"HelpTitle":null,"IsVisibleOnQuoteRow":false,"Format1":null,"Format2":null,"Format":"0","Comment":"","CustomDisplayValue":null}],"YearlyPrice":898.94}]

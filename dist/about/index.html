@@ -1,54 +1,83 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head>
-	<meta charset='utf-8'>
-	<meta name='viewport' content='width=device-width,initial-scale=1.0'>
-	<meta name='theme-color' content='#333333'>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+		<meta name="theme-color" content="#333333" />
 
-	<base href="/my-sapper-app/dist/">
+		<base href="/" />
 
-	<link rel='stylesheet' href='global.css'>
-	<link rel='manifest' href='manifest.json'>
-	<link rel='icon' type='image/png' href='favicon.png'>
+		<link rel="stylesheet" href="css/global.css" />
+		<link rel="stylesheet" href="css/monstyle.css" />
+		<link rel="manifest" href="manifest.json" />
+		<link rel="icon" type="image/png" href="favicon.png" />
 
-	<!-- Sapper generates a <style> tag containing critical CSS
-	     for the current page. CSS for the rest of the app is
-	     lazily loaded when it precaches secondary pages -->
-	<link rel="stylesheet" href="client/main.css">
-
-	<!-- This contains the contents of the <svelte:head> component, if
+		<!-- This contains the contents of the <svelte:head> component, if
 	     the current page has one -->
-	<noscript id='sapper-head-start'></noscript><title>About</title><noscript id='sapper-head-end'></noscript>
-<link rel="preload" as="style" href="/client/main.css"><link rel="preload" as="script" href="/client/63e82d415dd6c5e5c98b/main.js"><link rel="preload" as="script" href="/client/63e82d415dd6c5e5c98b/about.4.js"></head>
-<body>
-	<!-- The application will be rendered inside this element,
+		<noscript id="sapper-head-start"></noscript>
+		<title>About</title>
+		<noscript id="sapper-head-end"></noscript>
+	</head>
+	<body>
+		<!-- The application will be rendered inside this element,
 	     because `app/client.js` references it -->
-	<div id='sapper'>
+		<div id="sapper">
+			<header class="header svelte-1hpnr8a">
+				<img
+					class="logo svelte-1hpnr8a"
+					src="https://cdn.lelynx.fr/dist/svg/logo.svg"
+					alt=""
+				/>
+			</header>
 
+			<nav class="nav svelte-z2owkt">
+				<ul class="svelte-z2owkt">
+					<li class="svelte-z2owkt">
+						<a class=" svelte-z2owkt" href=".">home</a>
+					</li>
+					<li class="svelte-z2owkt">
+						<a class="selected svelte-z2owkt" href="about">about</a>
+					</li>
 
-	<nav class="maNav svelte-237dd3">
-		<ul class="svelte-237dd3">
-			<li class="svelte-237dd3"><a class=" svelte-237dd3" href=".">home</a></li>
-			<li class="svelte-237dd3"><a class="selected svelte-237dd3" href="about">about</a></li>
+					<li class="svelte-z2owkt">
+						<a rel="prefetch" class=" svelte-z2owkt" href="blog">blog</a>
+					</li>
+					<li class="svelte-z2owkt">
+						<a rel="prefetch" href="quotes" class="svelte-z2owkt">quote page</a>
+					</li>
+				</ul>
+				<div class="test svelte-z2owkt">coucou c'est mon test !</div>
+			</nav>
 
+			<main class="svelte-le5btf">
+				<h1>About this site</h1>
 
-			<li class="svelte-237dd3"><a rel="prefetch" class=" svelte-237dd3" href="blog">blog</a></li>
-		</ul>
-	</nav>
+				<p>This is the 'about' page. There's not much here.</p>
+			</main>
 
-	<main class="svelte-1uhnsl8">
-		
-		
+			<footer class="footer">
+				coucou c'est mon footer
+			</footer>
+		</div>
 
-	<h1>About this site</h1>
-
-	<p>This is the 'about' page. There's not much here.</p>
-	
-	</main></div>
-
-	<!-- Sapper creates a <script> tag containing `app/client.js`
+		<!-- Sapper creates a <script> tag containing `app/client.js`
 	     and anything else it needs to hydrate the app and
 	     initialise the router -->
-	<script>__SAPPER__={baseUrl:"",preloaded:[void 0,{}]};if('serviceWorker' in navigator)navigator.serviceWorker.register('/service-worker.js');</script><script src="/client/63e82d415dd6c5e5c98b/main.js"></script>
-</body>
+		<script>
+			__SAPPER__ = { baseUrl: "", preloaded: [void 0, {}] };
+			if ("serviceWorker" in navigator)
+				navigator.serviceWorker.register("/service-worker.js");
+			var s = document.createElement("script");
+			try {
+				new Function("if(0)import('')")();
+				s.src = "/client/client.a9c35d16.js";
+				s.type = "module";
+				s.crossOrigin = "use-credentials";
+			} catch (e) {
+				s.src = "/client/shimport@1.0.0.js";
+				s.setAttribute("data-main", "/client/client.a9c35d16.js");
+			}
+			document.head.appendChild(s);
+		</script>
+	</body>
 </html>
