@@ -45,7 +45,7 @@
     "rollup-plugin-svg-to-symbol": "^1.0.0",
     "rollup-plugin-terser": "^4.0.4",
     "sapper": "git://github.com/mikaelguillin/sapper.git",
-    "svelte": "^3.9.1",
+    "svelte": "^3.49.0",
     "svelte-icon": "^1.0.1",
     "svelte-loader": "^2.13.6",
     "svelte-preprocess": "^2.16.0"
